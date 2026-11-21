@@ -118,11 +118,11 @@ export const PERSONAL_INFO = {
     'https://lh3.googleusercontent.com/aida-public/AB6AXuABVZzGq_-ONXEvgyWtBanvrb3bSxxf9baNvnAzrWMGpR-nbfDzjx70NVGEAyYzJod1hyuvi1dP0Kh_JtnzQ8mj0iELcYDuIq8dcXXWMig7rccNbA15_n62XwgwgDrhHymzJKxWvjYNYHBkTPH6pBnpB32oepMC1yQaTMglhdhmYlmdNydwJngJ177KkFTPsJ__z6IM-333dppBchIN2wNCJ09BG6e5DA1vfuupwsA',
   philosophy:
     'Good design is not just how it looks, but how it works. Great software solves real problems with thoughtful, scalable engineering.',
-  email: 'hello@chetanpawar.dev',
-  github: 'https://github.com/chetanpawar',
-  githubDisplay: 'github.com/chetanpawar',
-  linkedin: 'https://linkedin.com/in/chetanpawar',
-  linkedinDisplay: 'linkedin.com/in/chetanpawar',
+  email: 'cp9265343480@gmail.com',
+  github: 'https://github.com/novachetan',
+  githubDisplay: 'github.com/novachetan',
+  linkedin: 'https://linkedin.com/in/chetan-pawar-a3990439a',
+  linkedinDisplay: 'linkedin.com/in/chetan-pawar-a3990439a',
   location: 'Maharashtra, India',
 };
 
